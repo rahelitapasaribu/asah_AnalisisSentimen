@@ -32,7 +32,3 @@ Proyek ini bertujuan untuk menganalisis sentimen pengguna terhadap layanan Gojek
 3. **Deep Learning**
    - **LSTM**: model sequential dengan embedding layer Word2Vec
    - Evaluasi dengan **accuracy, precision, recall, F1-score, confusion matrix**
-
-
-## Struktur Folder
-
